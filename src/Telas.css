@@ -1,0 +1,645 @@
+#principal {
+    background-color: pink;
+}
+
+#alto {
+    background-color: pink;
+    height: 70px;
+}
+
+#logo {
+    width: 120px;
+    height: 70px;
+    margin-left: -400px;
+    margin-top: 7px;
+}
+
+#compras {
+    margin-top: -50px;
+    text-align: center;
+    text-shadow:
+    -2px -2px 1px white;
+}
+
+#produtos {
+    border: black 2px solid;
+    width: 800px;
+    height: 1600px;
+    margin-left: 380px;
+    margin-top: 30px;
+    background-color: white;
+}
+
+#prod {
+    margin-left: -550px;
+}
+
+#quantidade {
+    margin-top: -40px;
+}
+
+#total {
+    margin-left: 600px;
+    margin-top: -40px;
+}
+
+#base {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -45px;
+}
+
+#liq {
+    margin-left: -490px;
+    margin-top: -45px;
+}
+
+#quant1 {
+    width: 40px;
+    margin-bottom: -100px;
+    margin-left: -10px;
+    text-align: center;
+}
+
+#quant2 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#corretivo {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#corretivo1 {
+    margin-left: -500px;
+    margin-top: -50px;
+}
+
+#quant3 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#delineador {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#delineador1 {
+    margin-left: -490px;
+    margin-top: -50px;
+}
+
+#quant4 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#po {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#po1 {
+    margin-left: -490px;
+    margin-top: -50px;
+}
+
+#quant5 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#batom {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#batom1 {
+    margin-left: -510px;
+    margin-top: -50px;
+}
+
+#quant6 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#iluminador {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#iluminador1 {
+    margin-left: -460px;
+    margin-top: -50px;
+}
+
+#quant7 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#rimel {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#rimel1 {
+    margin-left: -470px;
+    margin-top: -50px;
+}
+
+#quant8 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#gel {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#gel1 {
+    margin-left: -450px;
+    margin-top: -50px;
+}
+
+#quant9 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#agua {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#agua1 {
+    margin-left: -490px;
+    margin-top: -50px;
+}
+
+#quant10 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#blush {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#blush1 {
+    margin-left: -530px;
+    margin-top: -50px;
+}
+
+#quant11 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#olho {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#olho1 {
+    margin-left: -500px;
+    margin-top: -50px;
+}
+
+#quant12 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#sombra {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#sombra1 {
+    margin-left: -480px;
+    margin-top: -50px;
+}
+
+#quant13 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#kit {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#kit1 {
+    margin-left: -490px;
+    margin-top: -50px;
+}
+
+#quant14 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#esponja {
+    width: 60px;
+    height: 60px;
+    margin-left: -720px;
+    margin-top: -60px;
+}
+
+#esponja1 {
+    margin-left: -470px;
+    margin-top: -50px;
+}
+
+#quant15 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#curvex {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#curvex1 {
+    margin-left: -490px;
+    margin-top: -50px;
+}
+
+#quant16 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#paleta {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#paleta1 {
+    margin-left: -470px;
+    margin-top: -50px;
+}
+
+#quant17 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#maleta {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#maleta1 {
+    margin-left: -470px;
+    margin-top: -50px;
+}
+
+#quant18 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#colecao {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#colecao1 {
+    margin-left: -470px;
+    margin-top: -50px;
+}
+
+#quant19 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#gloss {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#gloss1 {
+    margin-left: -520px;
+    margin-top: -50px;
+}
+
+#quant20 {
+    width: 40px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#primer {
+    width: 60px;
+    height: 60px;
+    margin-left: -710px;
+    margin-top: -60px;
+}
+
+#primer1 {
+    margin-left: -520px;
+    margin-top: -50px;
+}
+
+#baixo {
+    border: black 2px solid;
+    width: 550px;
+    height: 300px;
+    margin-left: 500px;
+    margin-top: 10px;
+    background-color: white;
+}
+
+#ok {
+    margin-left: -10px;
+}
+#pessoal {
+    text-align: center;
+
+}
+
+#nome {
+    margin-top: 30px;
+    margin-left: -80px;
+}
+
+#nome1 {
+    width: 300px;
+    margin-left: 40px;
+}
+
+#endereco {
+    margin-left: -100px;
+}
+
+#endereco1 {
+    width: 300px;
+    margin-left: 60px;
+}
+
+#email {
+    margin-left: -150px;
+}
+
+#email1 {
+    width: 300px;
+    margin-left: 50px;
+    margin-right: -10px;
+}
+
+.rodape {
+    background-color: rgb(248, 136, 155);
+    margin-top: 14px;
+    height: 220px;
+}
+
+#face {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 0px;
+    margin-left: -300px;
+}
+
+.insta {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: -5px;
+    margin-left: -300px;
+}
+
+.email {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: -180px;
+    margin-left: 250px;
+}
+
+.fone {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: -250px;
+    margin-left: 250px;
+}
+
+.faceuser {
+    margin-left: -130px;
+    margin-top: -20px;
+}
+
+.instauser {
+    margin-left: -130px;
+    margin-top: -20px;
+}
+
+.gmail {
+    margin-left: 500px;
+    margin-top: -112px;
+    margin-bottom: 140px;
+}
+
+.telefone {
+    margin-left: 430px;
+    margin-top: -145px;
+    margin-bottom: 140px;
+}
+
+.aviso {
+    margin-top: -100px;
+    margin-left: 150px;
+}
+
+footer {
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.total {
+    margin-left: 640px;
+    margin-top: 100px;
+}
+
+.total1 {
+    margin-left: 640px;
+    margin-top: 58px;
+}
+
+.total2 {
+    margin-left: 640px;
+    margin-top: 53px;
+}
+
+.total3 {
+    margin-left: 640px;
+    margin-top: 51px;
+}
+
+.total4 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total5 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total6 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total7 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total8 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total9 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total10 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total11 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total12 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total13 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total14 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total15 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total16 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total17 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total18 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total19 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
+
+.total20 {
+    margin-left: 640px;
+    margin-top: 54px;
+}
